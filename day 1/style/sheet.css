@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQUQ6g6NjGqj3qncgsJGpxzzRrL_qDAc1qQ&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    color: aquamarine;
+}
+/*margin is dist btw border and margin of page*/
+.box1{
+    border: 2px solid red;
+   /* margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2px;
+    margin-bottom: 5%; (each side specified separately)*/
+
+  /*  margin: 10%; (same for all sides) */
+  margin: 1% 30% 1% 30%; /*all sides in a single line(top right bottom left)*/
+
+  /*padding-left: 10%;
+  padding-top: 3%; (same principle as margin)*/
+
+  padding: 3% 12% 3% 15%; /*top right bottom left*/
+}
+

@@ -1,0 +1,36 @@
+.box3{
+    background-image: url("https://media.istockphoto.com/id/1176602671/photo/falling-autumn-leaves-before-sunset.jpg?s=612x612&w=0&k=20&c=q5syXIvFQOw1VQjXKZifqNkM44pkv7Gu8TG52TG7e7s=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin-left: 42% ;
+    margin-top: 5%;
+    color: blue;
+}
+.box2{
+    border: 2px solid blue;
+    border-radius: 0.5em;
+    margin: 5% 35% 1% 35%;
+    padding-left: 9%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-right: 5%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFwxR9K8bBDPDKyX4YO9TQ6wf5wf4pAZsbA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    border-radius: 1em;
+    margin-left: 23%;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.box2 input{
+    border-radius: 0.5em;
+    height: 30px;
+}
